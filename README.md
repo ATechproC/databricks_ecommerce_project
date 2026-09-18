@@ -294,17 +294,3 @@ Through this project, I am developing practical experience with:
 * Improve error handling and monitoring.
 * Optimize Delta tables.
 * Connect the Gold layer to a BI tool.
-
----
-
-## 👨‍💻 Author
-
-**Anass CHORAICHI**
-
-Aspiring Data Engineer | Python | SQL | PySpark | Databricks
-
----
-
-## 🔗 Repository
-
-[GitHub Repository](https://github.com/ATechproC/databricks_ecommerce_project)
